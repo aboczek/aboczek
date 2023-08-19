@@ -1,4 +1,11 @@
-### Hi there 👋
+# **[aboczek](github.com/aboczek)** Software developer.
+<img src="" alt="" width=500px height=500px>
+
+## About me
+<hr>
+### Hi there 👋 My name is Adam and I'm a Software developer specialising in Front and Back end.
+
+<hr>
 
 <!--
 **aboczek/aboczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
