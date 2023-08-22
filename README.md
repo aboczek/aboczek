@@ -1,4 +1,13 @@
 # :globe_with_meridians: **[aboczek](github.com/aboczek)** Software developer.
+Contact:
+<br>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aboczek/)
+<br>
+**OR**
+<br>
+:mailbox: adam.boczekwork@gmail.com
+<br>
+<hr>
 
 <h1>Hi there 👋 </h1>
 My name is Adam, I am a :computer: software developer specialising in :full_moon_with_face: Front end and :new_moon_with_face: Back end.
@@ -32,7 +41,14 @@ Hobbies: Gaming, a bit of sports and obviously coding :smiley:
 
 <h2>:floppy_disk: My Projects</h2>
 
-
+<h3> 1. Gourmet </h3>
+<div>
+    <img src="https://github.com/aboczek/Gourmet/blob/main/documentation/am-i-responsive.jpg?raw=true" height="400px">
+  <h4>Link to live website</h4>
+  https://aboczek.github.io/Gourmet/#
+  <h4>Link to repo</h4>
+  https://github.com/aboczek/Gourmet
+</div>
 
 <!--
 **aboczek/aboczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
