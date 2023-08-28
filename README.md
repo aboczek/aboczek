@@ -49,7 +49,12 @@ Hobbies: Gaming, a bit of sports and obviously coding :smiley:
   <h4>Link to repo</h4>
   https://github.com/aboczek/Gourmet
 </div>
+<h4>Languages used:</h4>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
+<h4>Description</h4>
 <!--
 **aboczek/aboczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
